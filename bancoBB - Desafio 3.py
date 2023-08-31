@@ -2,7 +2,7 @@ import textwrap
 
 
 def menu():
-    menu = """\n
+    menu ='''         Seja bem-vindo ao BB!
     ================ MENU ================
     [d]\tDepositar
     [s]\tSacar
